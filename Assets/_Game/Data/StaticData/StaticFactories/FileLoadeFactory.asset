@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 476d9875b8984c198e02cde967a3adcc, type: 3}
+  m_Name: FileLoadeFactory
+  m_EditorClassIdentifier: 
+  _title: Open image
+  _startDirectory: 
+  _copyFolderName: PinImages
+  _extensions:
+  - <Name>k__BackingField: Image
+    <Extensions>k__BackingField:
+    - png
+    - jpg
+    - jpeg
